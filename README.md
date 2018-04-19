@@ -1,6 +1,6 @@
 <html>
 
-<style type="text/css">
+<style>
 body {
 	font-family: courier;
 	font-weight: bold;
